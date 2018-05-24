@@ -1,0 +1,3 @@
+[submodule "xapian/tclap"]
+	path = xapian/tclap
+	url = https://github.com/mateidavid/tclap
